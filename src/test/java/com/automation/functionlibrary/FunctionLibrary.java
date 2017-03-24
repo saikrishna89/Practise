@@ -17,7 +17,7 @@ public class FunctionLibrary {
 	public WebDriver driver = null;
 	
 	public void setUp(){
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Abhi\\Downloads\\chromedriver_win32\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", System.getProperty("User.dir")+"//src//test//java//com//automation//drivers//chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);

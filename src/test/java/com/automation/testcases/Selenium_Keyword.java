@@ -17,6 +17,7 @@ public class Selenium_Keyword extends FunctionLibrary {
 
 	@BeforeTest
 	public void beforeTest() {
+		System.out.println(System.getProperty("user.dir")+"\\src\\test\\java\\com\\automation\\drivers\\chromedriver.exe");
 		setUp();
 	}
 
