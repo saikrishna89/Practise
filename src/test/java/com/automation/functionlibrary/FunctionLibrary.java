@@ -1,7 +1,10 @@
 package com.automation.functionlibrary;
 
+import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.Iterator;
 import java.util.List;
+import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
@@ -12,12 +15,16 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.Select;
 
+import com.automation.objectrepository.ObjectRepository;
+
 public class FunctionLibrary {
 	
 	public WebDriver driver = null;
 	
+	ObjectRepository OR = new ObjectRepository();
+	
 	public void setUp(){
-		System.setProperty("webdriver.chrome.driver", System.getProperty("User.dir")+"//src//test//java//com//automation//drivers//chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Elite\\Downloads\\chromedriver_win32\\chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
@@ -109,16 +116,27 @@ public class FunctionLibrary {
 		}
 	}
 	
+	@SuppressWarnings("static-access")
 	public void linksOnPage(){
 		if(driver != null){
 			try{
-				String homeWindow = driver.getWindowHandle();
-				String part1 = "html/body/table[2]/tbody/tr/td/table/tbody/tr/td[2]/div[4]/div[";
-				String part2 = "]/a";
-				for(int i = 1; i <= 10; i++){
-					driver.findElement(By.xpath(part1+i+part2)).click();
+		//		String homeWindow = driver.getWindowHandle();
+				String part1 = "html/body/table[2]/tbody/tr/td/table/tbody/tr/td[2]/div[";
+				String part2 = "]/h2/a";	
+				List<String> setting = new ArrayList<>();;
+				for(int i = 5; i <= 12; i++){
+					setting.add(part1+i+part2);
+				}  
+				Iterator<String> ite = setting.iterator();
+				while(ite.hasNext()){
+					String nextLink = ite.next();
+					if(isElementPresent(driver.findElement(By.xpath(nextLink)))){
+					driver.findElement(By.xpath(nextLink)).click();
 					sleep(2000);
-					driver.switchTo().window(homeWindow);
+					driver.findElement(By.linkText(OR.ApplyNow_LinkText)).click();
+					sleep(2000);
+				//	driver.switchTo().window(homeWindow);
+					}
 				}
 			}catch(Exception E){
 				System.out.println(E.getMessage());

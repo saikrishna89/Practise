@@ -1,95 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="1" failed="0" ignored="0" total="1" passed="0">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="77" started-at="2017-03-24T18:31:53Z" finished-at="2017-03-24T18:31:53Z">
+  <suite name="Suite" duration-ms="41043" started-at="2017-03-24T22:22:25Z" finished-at="2017-03-24T22:23:06Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="77" started-at="2017-03-24T18:31:53Z" finished-at="2017-03-24T18:31:53Z">
+    <test name="Test" duration-ms="41043" started-at="2017-03-24T22:22:25Z" finished-at="2017-03-24T22:23:06Z">
       <class name="com.automation.testcases.Selenium_Keyword">
-        <test-method status="FAIL" signature="beforeTest()[pri:0, instance:com.automation.testcases.Selenium_Keyword@158a8276]" name="beforeTest" is-config="true" duration-ms="0" started-at="2017-03-24T13:31:53Z" finished-at="2017-03-24T13:31:53Z">
-          <exception class="java.lang.IllegalStateException">
-            <message>
-              <![CDATA[The driver executable does not exist: C:\GitRepo\IndeedProject\null\src\test\java\com\automation\drivers\chromedriver.exe]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.IllegalStateException: The driver executable does not exist: C:\GitRepo\IndeedProject\null\src\test\java\com\automation\drivers\chromedriver.exe
-	at com.google.common.base.Preconditions.checkState(Preconditions.java:199)
-	at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:117)
-	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:112)
-	at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:89)
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:117)
-	at com.automation.functionlibrary.FunctionLibrary.setUp(FunctionLibrary.java:21)
-	at com.automation.testcases.Selenium_Keyword.beforeTest(Selenium_Keyword.java:21)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
-	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:515)
-	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:217)
-	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:144)
-	at org.testng.TestRunner.beforeRun(TestRunner.java:634)
-	at org.testng.TestRunner.run(TestRunner.java:602)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
-	at org.testng.TestNG.runSuites(TestNG.java:1133)
-	at org.testng.TestNG.run(TestNG.java:1104)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.IllegalStateException -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.automation.testcases.Selenium_Keyword@158a8276]" name="beforeTest" is-config="true" duration-ms="8236" started-at="2017-03-24T17:22:25Z" finished-at="2017-03-24T17:22:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="SKIP" signature="TC0001()[pri:0, instance:com.automation.testcases.Selenium_Keyword@158a8276]" name="TC0001" duration-ms="1" started-at="2017-03-24T13:31:53Z" finished-at="2017-03-24T13:31:53Z">
-          <exception class="java.lang.IllegalStateException">
-            <message>
-              <![CDATA[The driver executable does not exist: C:\GitRepo\IndeedProject\null\src\test\java\com\automation\drivers\chromedriver.exe]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.IllegalStateException: The driver executable does not exist: C:\GitRepo\IndeedProject\null\src\test\java\com\automation\drivers\chromedriver.exe
-	at com.google.common.base.Preconditions.checkState(Preconditions.java:199)
-	at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:117)
-	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:112)
-	at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:89)
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:117)
-	at com.automation.functionlibrary.FunctionLibrary.setUp(FunctionLibrary.java:21)
-	at com.automation.testcases.Selenium_Keyword.beforeTest(Selenium_Keyword.java:21)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
-	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:515)
-	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:217)
-	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:144)
-	at org.testng.TestRunner.beforeRun(TestRunner.java:634)
-	at org.testng.TestRunner.run(TestRunner.java:602)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
-	at org.testng.TestNG.runSuites(TestNG.java:1133)
-	at org.testng.TestNG.run(TestNG.java:1104)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.IllegalStateException -->
+        <test-method status="PASS" signature="TC0001()[pri:0, instance:com.automation.testcases.Selenium_Keyword@158a8276]" name="TC0001" duration-ms="32789" started-at="2017-03-24T17:22:33Z" finished-at="2017-03-24T17:23:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC0001 -->
