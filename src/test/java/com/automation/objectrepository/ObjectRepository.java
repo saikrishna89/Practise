@@ -8,4 +8,5 @@ public class ObjectRepository {
 	public static final String Learn_More_Button_Id = "learnMore";
 	public static final String Job_Type_LinkText = "Job Type";
 	public static final String Contract_Jobs_LinkText = "Contract";
+	public static final String ApplyNow_LinkText = "Apply Now";
 }

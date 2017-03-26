@@ -17,7 +17,7 @@ public class Selenium_Keyword extends FunctionLibrary {
 
 	@BeforeTest
 	public void beforeTest() {
-		System.out.println(System.getProperty("user.dir")+"\\src\\test\\java\\com\\automation\\drivers\\chromedriver.exe");
+	//	System.out.println(System.getProperty("user.dir")+"\\src\\test\\java\\com\\automation\\drivers\\chromedriver.exe");
 		setUp();
 	}
 
@@ -53,18 +53,10 @@ public class Selenium_Keyword extends FunctionLibrary {
 			elementContract.click();
 			sleep(2000);
 			linksOnPage();
-			
-			//   html/body/table[2]/tbody/tr/td/table/tbody/tr/td[2]/div[4]/div[1]/a
-			//   html/body/table[2]/tbody/tr/td/table/tbody/tr/td[2]/div[4]/div[2]/a
-			//   html/body/table[2]/tbody/tr/td/table/tbody/tr/td[2]/div[4]/div[3]/a
-			
-			//   html/body/table[2]/tbody/tr/td/table/tbody/tr/td[2]/div[4]/div[1]/a
-			
-
 		}catch(Exception E){
 			System.out.println(E.getMessage());
 		}
 	}
 	}
-
+	
 }
