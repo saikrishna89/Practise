@@ -1,0 +1,10 @@
+package com.javatpoint;
+
+public class AccessModifiersExample {
+	
+	private int a;
+	
+	private static void a() {
+		System.out.println("a is printing");
+	}
+}

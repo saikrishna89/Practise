@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<suite name="HomeDepot_Renowalk_TestSuite">
+<!--  
+<parameter name="chromeDriverPath" value="C://Documents and Settings/BXAVIE/Desktop/chromedriver_win32_2.0/chromedriver.exe"/>
+ 
+  <parameter name="browser" value="firefox"/>
+   
+  <parameter name="ieDriverPath" value="C://Users//kzv8sc//Desktop//Selenium - Automation - Files//IEDriverServer.exe"/>
+ 
+  <parameter name="ResultFolder" value="C://Selenium_Automation//ResultFolder"/>
+   -->
+    <!-- <listeners>
+    <listener class-name="com.onstar.selenium.automation.Utility.Listener"></listener>
+    </listeners>-->
+   
+ 
+       <suite-files>
+<!-- If you have more test suites, Please add them bellow. -->
+             <suite-file path="./HomeDepot_Renowalk_TestSuite.xml" />
+ 
+  </suite-files>
+ 
+ </suite>

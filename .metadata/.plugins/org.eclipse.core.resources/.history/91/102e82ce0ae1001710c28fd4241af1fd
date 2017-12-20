@@ -1,0 +1,10 @@
+package com.javatpoint;
+
+public class TestStaticExample {
+	
+	public static void main(String[] args) {
+		StaticExample SE = new StaticExample();
+		SE.rollno = 12;
+		System.out.println(SE.rollno);
+	}
+}

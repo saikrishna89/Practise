@@ -1,0 +1,19 @@
+package com.javatpoint.exceptions;
+
+import java.io.IOException;
+
+public class ThrowsException {
+	
+	void m() throws IOException{
+		throw new IOException("IO Exception occured");
+	}
+	
+	void n() throws IOException {
+		m();
+	}
+	
+	public static void main(String[] args) throws IOException {
+		ThrowsException TE = new ThrowsException();
+		TE.n();
+	}
+}

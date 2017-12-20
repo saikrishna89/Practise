@@ -1,0 +1,16 @@
+package com.javatpoint;
+
+public class Bike {
+	
+	final int speed = 90;
+	void run() {
+		int speed = 100;
+		System.out.println(speed);
+	}
+	
+	public static void main(String[] args) {
+		Bike bike = new Bike();
+		bike.run();
+	}
+	
+}

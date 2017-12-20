@@ -1,0 +1,11 @@
+package com.polymorphism;
+
+public class App {
+	
+	static Plant plant = new Plant();
+	public static void main(String args[]) {
+		
+		plant.grow();
+	}
+	
+}

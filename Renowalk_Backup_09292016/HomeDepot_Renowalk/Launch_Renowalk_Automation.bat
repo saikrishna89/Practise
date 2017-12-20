@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Java\jre1.8.0_40\bin\java" -cp "C:\Users\sarshad\workspace\HomeDepot_Renowalk\lib\*;C:\Users\sarshad\workspace\HomeDepot_Renowalk\bin" org.testng.TestNG C:\Users\sarshad\workspace\HomeDepot_Renowalk\config\testng.xml

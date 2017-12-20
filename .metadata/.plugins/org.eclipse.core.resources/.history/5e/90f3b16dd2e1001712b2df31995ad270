@@ -1,0 +1,8 @@
+package com.javatpoint;
+
+public interface InterfaceExample2 extends InterfaceExample{
+
+//	int b = 10;
+	void drinking();
+	
+}

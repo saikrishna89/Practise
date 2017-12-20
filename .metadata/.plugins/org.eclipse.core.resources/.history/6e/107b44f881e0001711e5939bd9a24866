@@ -1,0 +1,15 @@
+package com.arrays;
+
+public class Practise1 {
+	
+	public static void main(String[] args) {
+		int numArray[] = {100, 37, 423, 422};
+		String stringArray[] = {"Ramesh", "Suresh", "Sai", "Venkat", "Kp"};
+				
+		for(int i = 0; i < numArray.length; i++) {
+			if(numArray[i] < numArray[i+1]) {
+				System.out.println(numArray[i]);
+			}
+		}
+	}
+}

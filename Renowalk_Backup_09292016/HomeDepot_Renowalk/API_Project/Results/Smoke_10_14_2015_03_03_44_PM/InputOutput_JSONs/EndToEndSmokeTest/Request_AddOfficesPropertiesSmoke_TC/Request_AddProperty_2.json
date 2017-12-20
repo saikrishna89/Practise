@@ -1,0 +1,17 @@
+{
+	"AppOfficeID":18,
+	"ProjectName":"AutoTestProperty_10276",
+	"Address":"AutoTestAddress",
+	"City":"AutoTestCity",
+	"State":"MI",
+	"ZipCode":"12345",
+	"County":"AutoTestCounty",
+	"MainSqFt":"1234",
+	"NumberBedroom":"2",
+	"NumberBathroom":"2.5",
+	"YearBuilt":"2015",
+	"Comment":"AutoTestComment",
+	"GateCode":"AutoGCode",
+	"LockBox":"AutoLckBox",
+	"walkUserAssigned":"Bryce"
+}

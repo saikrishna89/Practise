@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="89042" started-at="2016-08-26T19:42:03Z" finished-at="2016-08-26T19:43:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="89042" started-at="2016-08-26T19:42:03Z" finished-at="2016-08-26T19:43:32Z">
+      <class name="com.homedepot.renowalk.TestDriver">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.homedepot.renowalk.TestDriver@17579e0f]" name="beforeTest" is-config="true" duration-ms="12" started-at="2016-08-26T15:42:03Z" finished-at="2016-08-26T15:42:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.homedepot.renowalk.TestDriver@17579e0f]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2016-08-26T15:42:03Z" finished-at="2016-08-26T15:42:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="run()[pri:0, instance:com.homedepot.renowalk.TestDriver@17579e0f]" name="run" duration-ms="89005" started-at="2016-08-26T15:42:03Z" finished-at="2016-08-26T15:43:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.homedepot.renowalk.TestDriver@17579e0f]" name="afterMethod" is-config="true" duration-ms="1" started-at="2016-08-26T15:43:32Z" finished-at="2016-08-26T15:43:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.homedepot.renowalk.TestDriver@17579e0f]" name="afterTest" is-config="true" duration-ms="0" started-at="2016-08-26T15:43:32Z" finished-at="2016-08-26T15:43:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.homedepot.renowalk.TestDriver -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

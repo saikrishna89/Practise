@@ -1,0 +1,14 @@
+package com.javatpoint;
+
+public class AbstractExample2 extends AbstractExample{
+
+	AbstractExample2(int a) {
+		super(a);
+	}
+
+	@Override
+	void example2() {
+		System.out.println("Example 2");
+	}
+	
+}

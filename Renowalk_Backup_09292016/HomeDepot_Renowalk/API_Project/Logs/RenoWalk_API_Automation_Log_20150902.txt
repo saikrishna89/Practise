@@ -1,0 +1,156 @@
+********************************************************************RenoWalk_API_Automation Logs***************************************************************************
+
+**************************************************************************************************************************************************************************
+20150902174110 : Max CorporateID>>>>>>>>>>>>>>>>>>>>>401.
+20150902174110 : iNewCorpId>>>402.
+20150902174110 : Corporations retrieved successfully with total size of : 328.
+20150902174326 : View Corporation Execution Started...........
+20150902174327 : Max CorporateID>>>>>>>>>>>>>>>>>>>>>401.
+20150902174327 : iNewCorpId>>>402.
+20150902174327 : Corporations retrieved successfully with total size of : 328.
+20150902174327 : View Corporation Execution Completed Successfully........
+20150902174401 : View Corporation Execution Started...........
+20150902174401 : Max CorporateID>>>>>>>>>>>>>>>>>>>>>401.
+20150902174401 : iNewCorpId>>>402.
+20150902174401 : Corporations retrieved successfully with total size of : 328.
+20150902174401 : View Corporation Execution Completed Successfully........
+
+20150902174411 : View Corporation Execution Started...........
+20150902174411 : Max CorporateID>>>>>>>>>>>>>>>>>>>>>401.
+20150902174411 : iNewCorpId>>>402.
+20150902174411 : Corporations retrieved successfully with total size of : 328.
+20150902174411 : View Corporation Execution Completed Successfully........
+
+20150902174419 : View Corporation Execution Started...........
+20150902174419 : Max CorporateID>>>>>>>>>>>>>>>>>>>>>401.
+20150902174419 : iNewCorpId>>>402.
+20150902174419 : Corporations retrieved successfully with total size of : 328.
+20150902174419 : View Corporation Execution Completed Successfully........
+
+20150903110526 : [View Corporation] Execution Started...........
+
+20150903110529 : Max CorporateID>>>>>>>>>>>>>>>>>>>>>401.
+
+20150903110530 : iNewCorpId>>>402.
+
+20150903110530 : Corporations retrieved successfully with total size of : 328.
+
+20150903110530 : [View Corporation] Execution Completed Successfully........
+
+20150903110618 : [View Corporation] Execution Started...........
+20150903110619 : Max CorporateID>>>>>>>>>>>>>>>>>>>>>401.
+20150903110619 : iNewCorpId>>>402.
+20150903110619 : Corporations retrieved successfully with total size of : 328.
+20150903110619 : [View Corporation] Execution Completed Successfully........
+20150903110836 : [View Corporation] Execution Started...........
+20150903110836 : Max CorporateID>>>>>>>>>>>>>>>>>>>>>401.
+20150903110836 : iNewCorpId>>>402.
+20150903110836 : Corporations retrieved successfully with total size of : 328.
+20150903110836 : [View Corporation] Execution Completed Successfully........
+20150903110911 : [View Corporation] Execution Started...........
+20150903110912 : Max CorporateID>>>>>>>>>>>>>>>>>>>>>401.
+20150903110912 : iNewCorpId>>>402.
+20150903110912 : Corporations retrieved successfully with total size of : 328.
+20150903110912 : [View Corporation] Execution Completed Successfully.......
+.
+20150903110913 : [View Corporation] Execution Started...........
+20150903110914 : Max CorporateID>>>>>>>>>>>>>>>>>>>>>401.
+20150903110914 : iNewCorpId>>>402.
+20150903110914 : Corporations retrieved successfully with total size of : 328.
+20150903110914 : [View Corporation] Execution Completed Successfully.......
+.
+20150903111130 : 
+[View Corporation] Execution Started...........
+20150903111131 : Max CorporateID>>>>>>>>>>>>>>>>>>>>>401.
+20150903111131 : iNewCorpId>>>402.
+20150903111131 : Corporations retrieved successfully with total size of : 328.
+20150903111131 : [View Corporation] Execution Completed Successfully........
+20150903111132 : 
+[View Corporation] Execution Started...........
+20150903111132 : Max CorporateID>>>>>>>>>>>>>>>>>>>>>401.
+20150903111132 : iNewCorpId>>>402.
+20150903111132 : Corporations retrieved successfully with total size of : 328.
+20150903111132 : [View Corporation] Execution Completed Successfully........
+20150903111203 : [View Corporation] Execution Started..........
+20150903111204 : Max CorporateID>>>>>>>>>>>>>>>>>>>>>401
+20150903111204 : iNewCorpId>>>402
+20150903111204 : Corporations retrieved successfully with total size of : 328
+20150903111204 : [View Corporation] Execution Completed Successfully.......
+
+20150903111204 : [View Corporation] Execution Started..........
+20150903111205 : Max CorporateID>>>>>>>>>>>>>>>>>>>>>401
+20150903111205 : iNewCorpId>>>402
+20150903111205 : Corporations retrieved successfully with total size of : 328
+20150903111205 : [View Corporation] Execution Completed Successfully.......
+
+20150903111211 : [View Corporation] Execution Started..........
+20150903111211 : Max CorporateID>>>>>>>>>>>>>>>>>>>>>401
+20150903111211 : iNewCorpId>>>402
+20150903111211 : Corporations retrieved successfully with total size of : 328
+20150903111211 : [View Corporation] Execution Completed Successfully.......
+
+20150903111212 : [View Corporation] Execution Started..........
+20150903111212 : Max CorporateID>>>>>>>>>>>>>>>>>>>>>401
+20150903111212 : iNewCorpId>>>402
+20150903111212 : Corporations retrieved successfully with total size of : 328
+20150903111212 : [View Corporation] Execution Completed Successfully.......
+
+20150903111722 : [Add Corporation] Execution Started...........
+20150903111723 : Max CorporateID>>>>>>>>>>>>>>>>>>>>>401.
+20150903111723 : Total Corporations before Add : 328.
+20150903111723 : Corporation : TestCorporation_402 with Id : 402 added successfully.
+20150903111733 : Total Corporations After Add : 329.
+20150903111733 : Newly added Corporation not found.
+20150903111733 : [Add Corporation] Execution Ended.......
+.
+20150903111757 : [View Corporation] Execution Started..........
+20150903111757 : Max CorporateID>>>>>>>>>>>>>>>>>>>>>403
+20150903111757 : iNewCorpId>>>404
+20150903111757 : Corporations retrieved successfully with total size of : 329
+20150903111757 : [View Corporation] Execution Completed Successfully.......
+
+20150903112003 : [View Corporation] Execution Started..........
+20150903112004 : Max CorporateID>>>>>>>>>>>>>>>>>>>>>403
+20150903112004 : iNewCorpId>>>404
+20150903112004 : Corporations retrieved successfully with total size of : 329
+20150903112004 : [View Corporation] Execution Completed Successfully.......
+
+20150903112219 : [Add Corporation] Execution Started...........
+20150903112219 : Max CorporateID>>>>>>>>>>>>>>>>>>>>>403.
+20150903112219 : Total Corporations before Add : 329.
+20150903112222 : Corporation : TestCorporation_404 with Id : 404 added successfully.
+20150903112227 : Total Corporations After Add : 330.
+20150903112227 : Actual Corp Id : 404 matches with Expected Corp Id : 404.
+20150903112227 : Actual Corp Name : TestCorporation_404 matches with Expected Corp Name : TestCorporation_404.
+20150903112227 : Newly added Corporation validated successfully.
+20150903112227 : [Add Corporation] Execution Ended.......
+.
+20150903112310 : [Add Corporation] Execution Started...........
+20150903112310 : Max CorporateID>>>>>>>>>>>>>>>>>>>>>404.
+20150903112310 : Total Corporations before Add : 330.
+20150903112312 : Corporation : TestCorporation_405 with Id : 405 added successfully.
+20150903112318 : Total Corporations After Add : 331.
+20150903112318 : Actual Corp Id : 405 matches with Expected Corp Id : 405.
+20150903112318 : Actual Corp Name : TestCorporation_405 matches with Expected Corp Name : TestCorporation_405.
+20150903112318 : Newly added Corporation validated successfully.
+20150903112318 : [Add Corporation] Execution Ended.......
+.
+20150903112547 : [Add Corporation] Execution Started...........
+20150903112548 : Max CorporateID>>>>>>>>>>>>>>>>>>>>>405.
+20150903112548 : Total Corporations before Add : 331.
+20150903112550 : Corporation : TestCorporation_406 with Id : 406 added successfully.
+20150903112555 : Total Corporations After Add : 332.
+20150903112555 : Actual Corp Id : 406 matches with Expected Corp Id : 406.
+20150903112555 : Actual Corp Name : TestCorporation_406 matches with Expected Corp Name : TestCorporation_406.
+20150903112555 : Newly added Corporation validated successfully.
+20150903112555 : [Add Corporation] Execution Ended.......
+.
+20150903113108 : [Duplicate Corporation] Execution Started...........
+20150903113109 : Total Corporations Before Duplicate Add Attempt : 332.
+20150903113109 : Max CorporateID>>>>>>>>>>>>>>>>>>>>>406.
+20150903113109 : Latest Corporate Name>>>>>>>>>>>>>>>>>>>>>TestCorporation_406.
+20150903113109 : iNewCorpId>>>407.
+20150903113109 : Duplicate Corporation : TestCorporation_406 with Id : 407 NOT added successfully.
+20150903113109 : Total Corporations After Duplicate Add Attempt : 332.
+20150903113109 : Duplicate Corporation NOT found successfully.
+20150903113109 : [Duplicate Corporation] Execution Ended........

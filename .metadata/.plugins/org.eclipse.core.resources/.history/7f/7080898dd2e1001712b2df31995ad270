@@ -1,0 +1,8 @@
+package com.javatpoint;
+
+public class TestInterfaceExample {
+	
+	public static void main(String[] args) {
+		
+	}
+}

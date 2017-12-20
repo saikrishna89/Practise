@@ -1,0 +1,277 @@
+11-05-2015 10:04:42 INFO [DriverScript]: First Log4j Message
+11-05-2015 10:04:42 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 10:04:53 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 10:04:53 INFO [DriverScript]: Execution of Function fn179227 Started..
+11-05-2015 10:04:59 INFO [DriverScript]: Execution of Function fn179227 Completed
+11-05-2015 10:05:56 INFO [DriverScript]: First Log4j Message
+11-05-2015 10:05:56 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 10:07:04 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 10:07:04 INFO [DriverScript]: Execution of Function fn179227 Started..
+11-05-2015 10:07:14 INFO [DriverScript]: Execution of Function fn179227 Completed
+11-05-2015 10:08:02 INFO [DriverScript]: First Log4j Message
+11-05-2015 10:08:02 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 10:08:10 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 10:08:10 INFO [DriverScript]: Execution of Function fn179227 Started..
+11-05-2015 10:08:17 INFO [DriverScript]: Execution of Function fn179227 Completed
+11-05-2015 10:21:09 INFO [DriverScript]: First Log4j Message
+11-05-2015 10:21:09 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 10:21:16 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 10:21:16 INFO [DriverScript]: Execution of Function fn179227 Started..
+11-05-2015 10:21:22 INFO [DriverScript]: Execution of Function fn179227 Completed
+11-05-2015 10:22:55 INFO [DriverScript]: First Log4j Message
+11-05-2015 10:22:56 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 10:23:02 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 10:23:02 INFO [DriverScript]: Execution of Function fn179227 Started..
+11-05-2015 10:23:08 INFO [DriverScript]: Execution of Function fn179227 Completed
+11-05-2015 10:23:24 INFO [DriverScript]: First Log4j Message
+11-05-2015 10:23:24 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 10:23:31 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 10:23:31 INFO [DriverScript]: Execution of Function fn179227 Started..
+11-05-2015 10:23:36 INFO [DriverScript]: Execution of Function fn179227 Completed
+11-05-2015 10:24:31 INFO [DriverScript]: First Log4j Message
+11-05-2015 10:24:31 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 10:24:38 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 10:24:38 INFO [DriverScript]: Execution of Function fn179227 Started..
+11-05-2015 10:24:43 INFO [DriverScript]: Execution of Function fn179227 Completed
+11-05-2015 10:25:15 INFO [DriverScript]: First Log4j Message
+11-05-2015 10:25:15 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 10:25:22 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 10:25:22 INFO [DriverScript]: Execution of Function fn179227 Started..
+11-05-2015 10:25:27 INFO [DriverScript]: Execution of Function fn179227 Completed
+11-05-2015 10:26:03 INFO [DriverScript]: First Log4j Message
+11-05-2015 10:26:03 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 10:26:10 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 10:26:10 INFO [DriverScript]: Execution of Function fn179227 Started..
+11-05-2015 10:26:15 INFO [DriverScript]: Execution of Function fn179227 Completed
+11-05-2015 10:32:09 INFO [DriverScript]: First Log4j Message
+11-05-2015 10:32:09 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 10:32:16 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 10:32:16 INFO [DriverScript]: Execution of Function fn179227 Started..
+11-05-2015 10:32:24 INFO [DriverScript]: Execution of Function fn179227 Completed
+11-05-2015 10:32:58 INFO [DriverScript]: First Log4j Message
+11-05-2015 10:32:58 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 10:33:06 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 10:33:06 INFO [DriverScript]: Execution of Function fn179227 Started..
+11-05-2015 10:33:12 INFO [DriverScript]: Execution of Function fn179227 Completed
+11-05-2015 10:42:09 INFO [DriverScript]: First Log4j Message
+11-05-2015 10:42:09 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 10:42:13 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asPassed
+11-05-2015 10:42:16 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 10:42:16 INFO [DriverScript]: Execution of Function fn179227 Started..
+11-05-2015 10:42:20 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asPassed
+11-05-2015 10:42:21 INFO [DriverScript]: Execution of Function fn179227 Completed
+11-05-2015 12:32:01 INFO [DriverScript]: First Log4j Message
+11-05-2015 12:32:01 INFO [DriverScript]: DB Update passed for OVDOPTIN. bPreCondition Flag = true
+11-05-2015 12:32:02 INFO [DriverScript]: WebService status is : Merkel Flag already exists for this VIN 
+11-05-2015 12:32:02 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 12:32:07 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asPassed
+11-05-2015 12:32:10 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 12:34:10 INFO [DriverScript]: First Log4j Message
+11-05-2015 12:34:10 INFO [DriverScript]: DB Update passed for OVDOPTIN. bPreCondition Flag = true
+11-05-2015 12:34:11 INFO [DriverScript]: WebService status is : Merkel Flag already exists for this VIN 
+11-05-2015 12:34:11 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 12:34:16 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asPassed
+11-05-2015 12:34:20 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 12:37:29 INFO [DriverScript]: First Log4j Message
+11-05-2015 12:37:29 INFO [DriverScript]: DB Update passed for OVDOPTIN. bPreCondition Flag = true
+11-05-2015 12:37:30 INFO [DriverScript]: WebService status is : Merkel Flag already exists for this VIN 
+11-05-2015 12:37:30 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 12:37:34 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asPassed
+11-05-2015 12:37:37 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 12:47:01 INFO [DriverScript]: First Log4j Message
+11-05-2015 12:47:02 INFO [DriverScript]: DB Update passed for OVDOPTIN. bPreCondition Flag = true
+11-05-2015 12:47:02 INFO [DriverScript]: WebService status is : Merkel Flag already exists for this VIN 
+11-05-2015 12:47:02 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 12:47:07 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asNot Completed
+11-05-2015 12:47:09 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 12:47:22 INFO [DriverScript]: First Log4j Message
+11-05-2015 12:47:22 INFO [DriverScript]: DB Update passed for OVDOPTIN. bPreCondition Flag = true
+11-05-2015 12:47:23 INFO [DriverScript]: WebService status is : Merkel Flag already exists for this VIN 
+11-05-2015 12:47:23 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 12:47:28 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asNot Completed
+11-05-2015 12:47:30 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 13:42:30 INFO [DriverScript]: First Log4j Message
+11-05-2015 13:42:32 INFO [DriverScript]: DB Update passed for OVDOPTIN. bPreCondition Flag = true
+11-05-2015 13:42:35 INFO [DriverScript]: WebService status is : Merkel Flag already exists for this VIN 
+11-05-2015 13:42:35 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 13:42:42 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asNot Completed
+11-05-2015 13:43:44 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 13:45:42 INFO [DriverScript]: First Log4j Message
+11-05-2015 13:45:43 INFO [DriverScript]: DB Update passed for OVDOPTIN. bPreCondition Flag = true
+11-05-2015 13:45:43 INFO [DriverScript]: WebService status is : Merkel Flag already exists for this VIN 
+11-05-2015 13:45:43 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 13:45:48 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asNot Completed
+11-05-2015 13:45:51 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 13:47:47 INFO [DriverScript]: First Log4j Message
+11-05-2015 13:47:47 INFO [DriverScript]: DB Update passed for OVDOPTIN. bPreCondition Flag = true
+11-05-2015 13:47:48 INFO [DriverScript]: WebService status is : Merkel Flag already exists for this VIN 
+11-05-2015 13:47:48 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 13:47:52 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asNot Completed
+11-05-2015 13:47:55 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 13:49:08 INFO [DriverScript]: First Log4j Message
+11-05-2015 13:49:09 INFO [DriverScript]: DB Update passed for OVDOPTIN. bPreCondition Flag = true
+11-05-2015 13:49:09 INFO [DriverScript]: WebService status is : Merkel Flag already exists for this VIN 
+11-05-2015 13:49:09 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 13:49:13 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asNot Completed
+11-05-2015 13:49:16 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 13:49:44 INFO [DriverScript]: First Log4j Message
+11-05-2015 13:49:44 INFO [DriverScript]: DB Update passed for OVDOPTIN. bPreCondition Flag = true
+11-05-2015 13:49:45 INFO [DriverScript]: WebService status is : Merkel Flag already exists for this VIN 
+11-05-2015 13:49:45 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 13:49:50 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asNot Completed
+11-05-2015 13:49:52 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 13:52:23 INFO [DriverScript]: First Log4j Message
+11-05-2015 13:52:24 INFO [DriverScript]: DB Update passed for OVDOPTIN. bPreCondition Flag = true
+11-05-2015 13:52:24 INFO [DriverScript]: WebService status is : Merkel Flag already exists for this VIN 
+11-05-2015 13:52:24 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 13:52:30 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asNot Completed
+11-05-2015 13:52:34 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 13:52:34 INFO [DriverScript]: Execution of Function fn179227 Started..
+11-05-2015 13:52:38 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asNot Completed
+11-05-2015 13:52:40 INFO [DriverScript]: Execution of Function fn179227 Completed
+11-05-2015 13:52:40 INFO [DriverScript]: Execution of Function fn183901 Started..
+11-05-2015 13:52:45 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asFailed
+11-05-2015 13:52:46 INFO [DriverScript]: Execution of Function fn183901 Completed
+11-05-2015 13:55:51 INFO [DriverScript]: First Log4j Message
+11-05-2015 13:55:51 INFO [DriverScript]: DB Update passed for OVDOPTIN. bPreCondition Flag = true
+11-05-2015 13:55:52 INFO [DriverScript]: WebService status is : Merkel Flag already exists for this VIN 
+11-05-2015 13:55:52 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 13:55:57 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asNot Completed
+11-05-2015 13:55:59 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 13:55:59 INFO [DriverScript]: Execution of Function fn179227 Started..
+11-05-2015 13:56:04 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asPassed
+11-05-2015 13:56:05 INFO [DriverScript]: Execution of Function fn179227 Completed
+11-05-2015 13:56:05 INFO [DriverScript]: Execution of Function fn183901 Started..
+11-05-2015 13:56:09 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asFailed
+11-05-2015 13:56:10 INFO [DriverScript]: Execution of Function fn183901 Completed
+11-05-2015 13:57:02 INFO [DriverScript]: First Log4j Message
+11-05-2015 13:57:02 INFO [DriverScript]: DB Update passed for OVDOPTIN. bPreCondition Flag = true
+11-05-2015 13:57:03 INFO [DriverScript]: WebService status is : Merkel Flag already exists for this VIN 
+11-05-2015 13:57:03 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 13:57:08 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asNot Completed
+11-05-2015 13:57:10 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 13:57:10 INFO [DriverScript]: Execution of Function fn179227 Started..
+11-05-2015 13:57:14 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asPassed
+11-05-2015 13:57:16 INFO [DriverScript]: Execution of Function fn179227 Completed
+11-05-2015 13:57:16 INFO [DriverScript]: Execution of Function fn183901 Started..
+11-05-2015 13:57:20 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asFailed
+11-05-2015 13:57:22 INFO [DriverScript]: Execution of Function fn183901 Completed
+11-05-2015 14:03:15 INFO [DriverScript]: First Log4j Message
+11-05-2015 14:03:15 INFO [DriverScript]: DB Update passed for OVDOPTIN. bPreCondition Flag = true
+11-05-2015 14:03:16 INFO [DriverScript]: WebService status is : Merkel Flag already exists for this VIN 
+11-05-2015 14:03:16 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 14:03:21 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asNot Completed
+11-05-2015 14:03:23 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 14:03:23 INFO [DriverScript]: Execution of Function fn179227 Started..
+11-05-2015 14:03:28 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asPassed
+11-05-2015 14:03:30 INFO [DriverScript]: Execution of Function fn179227 Completed
+11-05-2015 14:03:30 INFO [DriverScript]: Execution of Function fn183901 Started..
+11-05-2015 14:03:34 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asFailed
+11-05-2015 14:03:36 INFO [DriverScript]: Execution of Function fn183901 Completed
+11-05-2015 14:06:08 INFO [DriverScript]: First Log4j Message
+11-05-2015 14:06:08 INFO [DriverScript]: DB Update passed for OVDOPTIN. bPreCondition Flag = true
+11-05-2015 14:06:09 INFO [DriverScript]: WebService status is : Merkel Flag already exists for this VIN 
+11-05-2015 14:06:09 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 14:06:14 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asFailed
+11-05-2015 14:06:16 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 14:06:16 INFO [DriverScript]: Execution of Function fn179227 Started..
+11-05-2015 14:06:21 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asPassed
+11-05-2015 14:06:23 INFO [DriverScript]: Execution of Function fn179227 Completed
+11-05-2015 14:06:23 INFO [DriverScript]: Execution of Function fn183901 Started..
+11-05-2015 14:06:28 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asFailed
+11-05-2015 14:06:29 INFO [DriverScript]: Execution of Function fn183901 Completed
+11-05-2015 14:08:38 INFO [DriverScript]: First Log4j Message
+11-05-2015 14:08:38 INFO [DriverScript]: DB Update passed for OVDOPTIN. bPreCondition Flag = true
+11-05-2015 14:08:39 INFO [DriverScript]: WebService status is : Merkel Flag already exists for this VIN 
+11-05-2015 14:08:39 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 14:08:44 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asFailed
+11-05-2015 14:08:47 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 14:08:47 INFO [DriverScript]: Execution of Function fn179227 Started..
+11-05-2015 14:08:51 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asPassed
+11-05-2015 14:08:53 INFO [DriverScript]: Execution of Function fn179227 Completed
+11-05-2015 14:08:53 INFO [DriverScript]: Execution of Function fn183901 Started..
+11-05-2015 14:08:58 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asFailed
+11-05-2015 14:08:59 INFO [DriverScript]: Execution of Function fn183901 Completed
+11-05-2015 14:18:42 INFO [DriverScript]: First Log4j Message
+11-05-2015 14:18:43 INFO [DriverScript]: DB Update passed for OVDOPTIN. bPreCondition Flag = true
+11-05-2015 14:18:47 INFO [DriverScript]: WebService status is : Merkel Flag already exists for this VIN 
+11-05-2015 14:18:47 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 14:18:53 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asNot Completed
+11-05-2015 14:18:55 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 14:18:55 INFO [DriverScript]: Execution of Function fn179227 Started..
+11-05-2015 14:19:00 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asPassed
+11-05-2015 14:19:02 INFO [DriverScript]: Execution of Function fn179227 Completed
+11-05-2015 14:19:02 INFO [DriverScript]: Execution of Function fn183901 Started..
+11-05-2015 14:19:07 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asFailed
+11-05-2015 14:19:08 INFO [DriverScript]: Execution of Function fn183901 Completed
+11-05-2015 14:21:18 INFO [DriverScript]: First Log4j Message
+11-05-2015 14:21:19 INFO [DriverScript]: DB Update passed for OVDOPTIN. bPreCondition Flag = true
+11-05-2015 14:21:20 INFO [DriverScript]: WebService status is : Merkel Flag already exists for this VIN 
+11-05-2015 14:21:20 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 14:21:31 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asNot Completed
+11-05-2015 14:26:44 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 14:26:44 INFO [DriverScript]: Execution of Function fn179227 Started..
+11-05-2015 14:27:22 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asPassed
+11-05-2015 14:27:32 INFO [DriverScript]: Execution of Function fn179227 Completed
+11-05-2015 14:27:32 INFO [DriverScript]: Execution of Function fn183901 Started..
+11-05-2015 14:27:42 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asFailed
+11-05-2015 14:27:57 INFO [DriverScript]: Execution of Function fn183901 Completed
+11-05-2015 14:34:57 INFO [DriverScript]: First Log4j Message
+11-05-2015 14:34:58 INFO [DriverScript]: DB Update passed for OVDOPTIN. bPreCondition Flag = true
+11-05-2015 14:34:59 INFO [DriverScript]: WebService status is : Merkel Flag already exists for this VIN 
+11-05-2015 14:34:59 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 14:35:04 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asNot Completed
+11-05-2015 14:35:06 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 14:35:06 INFO [DriverScript]: Execution of Function fn179227 Started..
+11-05-2015 14:35:11 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asPassed
+11-05-2015 14:35:13 INFO [DriverScript]: Execution of Function fn179227 Completed
+11-05-2015 14:35:13 INFO [DriverScript]: Execution of Function fn183901 Started..
+11-05-2015 14:35:18 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asFailed
+11-05-2015 14:35:19 INFO [DriverScript]: Execution of Function fn183901 Completed
+11-05-2015 14:36:02 INFO [DriverScript]: First Log4j Message
+11-05-2015 14:36:02 INFO [DriverScript]: DB Update passed for OVDOPTIN. bPreCondition Flag = true
+11-05-2015 14:36:03 INFO [DriverScript]: WebService status is : Merkel Flag already exists for this VIN 
+11-05-2015 14:36:03 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 14:36:07 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asNot Completed
+11-05-2015 14:36:10 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 14:36:10 INFO [DriverScript]: Execution of Function fn179227 Started..
+11-05-2015 14:36:14 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asPassed
+11-05-2015 14:36:17 INFO [DriverScript]: Execution of Function fn179227 Completed
+11-05-2015 14:36:17 INFO [DriverScript]: Execution of Function fn183901 Started..
+11-05-2015 14:36:21 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asFailed
+11-05-2015 14:36:23 INFO [DriverScript]: Execution of Function fn183901 Completed
+11-05-2015 14:36:59 INFO [DriverScript]: First Log4j Message
+11-05-2015 14:36:59 INFO [DriverScript]: DB Update passed for OVDOPTIN. bPreCondition Flag = true
+11-05-2015 14:37:00 INFO [DriverScript]: WebService status is : Merkel Flag already exists for this VIN 
+11-05-2015 14:37:00 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 14:37:05 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asNot Completed
+11-05-2015 14:37:07 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 14:37:07 INFO [DriverScript]: Execution of Function fn179227 Started..
+11-05-2015 14:37:12 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asPassed
+11-05-2015 14:37:13 INFO [DriverScript]: Execution of Function fn179227 Completed
+11-05-2015 14:37:13 INFO [DriverScript]: Execution of Function fn183901 Started..
+11-05-2015 14:37:18 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asFailed
+11-05-2015 14:37:19 INFO [DriverScript]: Execution of Function fn183901 Completed
+11-05-2015 14:46:04 INFO [DriverScript]: First Log4j Message
+11-05-2015 14:46:05 INFO [DriverScript]: DB Update passed for OVDOPTIN. bPreCondition Flag = true
+11-05-2015 14:46:05 INFO [DriverScript]: WebService status is : Merkel Flag already exists for this VIN 
+11-05-2015 14:46:05 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 14:46:11 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asNot Completed
+11-05-2015 14:46:14 INFO [DriverScript]: Execution of Function fn179225 Completed
+11-05-2015 14:46:14 INFO [DriverScript]: Execution of Function fn179227 Started..
+11-05-2015 14:46:18 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asPassed
+11-05-2015 14:46:20 INFO [DriverScript]: Execution of Function fn179227 Completed
+11-05-2015 14:46:20 INFO [DriverScript]: Execution of Function fn183901 Started..
+11-05-2015 14:46:26 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asFailed
+11-05-2015 14:46:27 INFO [DriverScript]: Execution of Function fn183901 Completed
+11-05-2015 17:08:53 INFO [DriverScript]: First Log4j Message
+11-05-2015 17:08:53 INFO [DriverScript]: Test case failed for Test Case ID179225999. Data missing...
+11-05-2015 17:13:04 INFO [DriverScript]: First Log4j Message
+11-05-2015 17:13:04 INFO [DriverScript]: Test case failed for Test Case ID179225999. Function or Data missing...
+11-05-2015 17:13:04 INFO [DriverScript]: Test case failed for fn179225999. Check if the function is missing...
+11-05-2015 17:14:04 INFO [DriverScript]: First Log4j Message
+11-05-2015 17:14:05 INFO [DriverScript]: DB Update passed for OVDOPTIN. bPreCondition Flag = true
+11-05-2015 17:14:05 INFO [DriverScript]: WebService status is : Merkel Flag already exists for this VIN 
+11-05-2015 17:14:05 INFO [DriverScript]: Execution of Function fn179225 Started..
+11-05-2015 17:14:10 INFO [DriverScript]: TestCase Result updated in HP ALM successfully asNot Completed
+11-05-2015 17:14:13 INFO [DriverScript]: Execution of Function fn179225 Completed

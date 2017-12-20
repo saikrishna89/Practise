@@ -1,0 +1,21 @@
+{
+	"AppOfficeID": 48,
+	"ItemSKU": [],
+	"ItemComment": [{
+		"Comment": "AutoTestComment",
+		"DefaultPrice": "",
+		"DisplayOrder": 1
+	}],
+	"Required": 1,
+	"PictureRequired": 1,
+	"NonBugdetItem": 1,
+	"PriceOverride": 1,
+	"Name": "TestItemTestItemTestItemTestItemTestItemTestItemTestItemTestItemTestItemTestItemTestItemTestItemTestItemTestItemTestItemTestItemTestItemTestItemTestItemTestItemTestItemTestItemTestItemTestItemTestItemTestItemTestItemTestItemTestItemTestItemTestItemTestItem_69110",
+	"ObjCClassName": "AlwaysAddedRowType",
+	"DefaultMaterial": "12",
+	"DefaultLabor": "34",
+	"DefaultHours": "45",
+	"GLCode": "AutoTstGLCode",
+	"Category": "AutoTestCategory",
+	"SubCategory": "AutoTestSubCategory"
+}

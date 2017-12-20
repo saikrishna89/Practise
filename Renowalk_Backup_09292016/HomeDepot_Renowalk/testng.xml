@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Renowalk_TestSuite">
+  <test name="Renowalk_Test">
+    <classes>
+      <class name="com.homedepot.renowalk.TestDriver"/>
+    </classes>
+  </test>
+</suite>

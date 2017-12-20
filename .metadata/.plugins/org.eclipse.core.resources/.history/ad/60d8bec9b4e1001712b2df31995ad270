@@ -1,0 +1,15 @@
+package com.javatpoint;
+
+public class FinalExample {
+	
+	final int SPEED_LIMIT;
+	
+	FinalExample(int SpeedLimit){
+		this.SPEED_LIMIT = SpeedLimit;
+		System.out.println(SPEED_LIMIT);
+	}
+	
+	public static void main(String[] args) {
+		FinalExample FE = new FinalExample(100);
+	}
+}

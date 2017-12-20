@@ -1,0 +1,12 @@
+{
+	"OfficeName": "AutoTestOffice_96526",
+	"DefaultStoreNumber": "1234",
+	"Address": "AutoTestAddress",
+	"City": "AutoTestCity",
+	"State": "MI",
+	"ZipCode": "48108",
+	"PhoneNumber": "1112222",
+	"QuoteEmailAddress": "AutoTestQuote@AutoTest.com",
+	"PropertyWalkSubmitEmailAddress": "AutoTestSubmit@AutoTest.com",
+	"CorporateID": 4
+}

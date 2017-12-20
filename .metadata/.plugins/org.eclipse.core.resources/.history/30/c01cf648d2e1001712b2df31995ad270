@@ -1,0 +1,29 @@
+package com.javatpoint;
+
+public class InterfaceExample3 implements InterfaceExample2{
+
+	@Override
+	public void running() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void eating() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void sleeping() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void drinking() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

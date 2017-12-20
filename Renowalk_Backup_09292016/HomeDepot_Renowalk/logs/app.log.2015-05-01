@@ -1,0 +1,156 @@
+01-05-2015 10:00:11 INFO [DriverScript]: First Log4j Message
+01-05-2015 10:00:12 INFO [DriverScript]: Execution of Function fn179225 Started..
+01-05-2015 10:01:00 ERROR[DriverScript]: fnWrapCall--------------Failed
+org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=34.0.1847.131)
+  (Driver info: chromedriver=2.10.267521,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USRN4WDC405C94A', ip: '164.56.132.125', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: f07f169371aebcb9fce2cb887ad5d374
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\gz2wwf\AppData\Local\Temp\scoped_dir1844_25130}, rotatable=false, locationContextEnabled=true, version=34.0.1847.131, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:393)
+	at org.openqa.selenium.By$ById.findElement(By.java:214)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at com.onstar.gaa.Common.BaseClass.fnWrapCall(BaseClass.java:1807)
+	at com.onstar.gaa.Phase_testcases.fn179225(Phase_testcases.java:125)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.onstar.gaa.Common.BaseClass.fnExecuteFunction(BaseClass.java:255)
+	at com.onstar.gaa.DriverScript.run(DriverScript.java:220)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+01-05-2015 10:01:07 INFO [DriverScript]: Execution of Function fn179225 Completed
+01-05-2015 10:02:17 INFO [DriverScript]: First Log4j Message
+01-05-2015 10:02:17 INFO [DriverScript]: Execution of Function fn179225 Started..
+01-05-2015 10:02:49 ERROR[DriverScript]: fnWrapCall--------------Failed
+org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=34.0.1847.131)
+  (Driver info: chromedriver=2.10.267521,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'USRN4WDC405C94A', ip: '164.56.132.125', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.6.0_45'
+Session ID: d9c71afcbc9b7e20a976077172b01986
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\gz2wwf\AppData\Local\Temp\scoped_dir9724_18720}, rotatable=false, locationContextEnabled=true, version=34.0.1847.131, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:393)
+	at org.openqa.selenium.By$ById.findElement(By.java:214)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at com.onstar.gaa.Common.BaseClass.fnWrapCall(BaseClass.java:1807)
+	at com.onstar.gaa.Phase_testcases.fn179225(Phase_testcases.java:125)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.onstar.gaa.Common.BaseClass.fnExecuteFunction(BaseClass.java:255)
+	at com.onstar.gaa.DriverScript.run(DriverScript.java:220)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1220)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.TestNG.privateMain(TestNG.java:1364)
+	at org.testng.TestNG.main(TestNG.java:1333)
+01-05-2015 10:30:32 INFO [DriverScript]: First Log4j Message
+01-05-2015 10:30:32 INFO [DriverScript]: Execution of Function fn179225 Started..
+01-05-2015 10:30:38 INFO [DriverScript]: Execution of Function fn179225 Completed
+01-05-2015 10:31:04 INFO [DriverScript]: First Log4j Message
+01-05-2015 10:31:04 INFO [DriverScript]: Execution of Function fn179225 Started..
+01-05-2015 10:31:55 INFO [DriverScript]: First Log4j Message
+01-05-2015 10:31:55 INFO [DriverScript]: Execution of Function fn179225 Started..
+01-05-2015 10:37:42 INFO [DriverScript]: First Log4j Message
+01-05-2015 10:37:42 INFO [DriverScript]: Execution of Function fn179225 Started..
+01-05-2015 10:37:47 INFO [DriverScript]: Execution of Function fn179225 Completed
+01-05-2015 10:38:28 INFO [DriverScript]: First Log4j Message
+01-05-2015 10:38:28 INFO [DriverScript]: Execution of Function fn179225 Started..
+01-05-2015 10:38:34 INFO [DriverScript]: Execution of Function fn179225 Completed
+01-05-2015 11:09:57 INFO [DriverScript]: First Log4j Message
+01-05-2015 11:09:57 INFO [DriverScript]: Execution of Function fn179225 Started..
+01-05-2015 11:10:03 INFO [DriverScript]: Execution of Function fn179225 Completed
+01-05-2015 11:17:00 INFO [DriverScript]: First Log4j Message
+01-05-2015 11:17:00 INFO [DriverScript]: Execution of Function fn179225 Started..
+01-05-2015 11:17:06 INFO [DriverScript]: Execution of Function fn179225 Completed
+01-05-2015 12:38:51 INFO [DriverScript]: First Log4j Message
+01-05-2015 12:42:59 INFO [DriverScript]: Execution of Function fn179225 Started..
+01-05-2015 12:43:04 INFO [DriverScript]: Execution of Function fn179225 Completed
+01-05-2015 12:43:16 INFO [DriverScript]: First Log4j Message
+01-05-2015 12:43:17 INFO [DriverScript]: Execution of Function fn179225 Started..
+01-05-2015 12:43:22 INFO [DriverScript]: Execution of Function fn179225 Completed
+01-05-2015 12:50:07 INFO [DriverScript]: First Log4j Message
+01-05-2015 12:51:45 INFO [DriverScript]: Execution of Function fn179225 Started..
+01-05-2015 12:51:50 INFO [DriverScript]: Execution of Function fn179225 Completed
+01-05-2015 12:53:02 INFO [DriverScript]: First Log4j Message
+01-05-2015 12:53:15 INFO [DriverScript]: Execution of Function fn179225 Started..
+01-05-2015 12:53:20 INFO [DriverScript]: Execution of Function fn179225 Completed
+01-05-2015 13:21:22 INFO [DriverScript]: First Log4j Message
+01-05-2015 13:21:23 INFO [DriverScript]: WebService status is : success
+01-05-2015 13:21:23 INFO [DriverScript]: Execution of Function fn179225 Started..
+01-05-2015 13:21:29 INFO [DriverScript]: Execution of Function fn179225 Completed
+01-05-2015 13:27:58 INFO [DriverScript]: First Log4j Message
+01-05-2015 13:27:59 INFO [DriverScript]: WebService status is : success
+01-05-2015 13:27:59 INFO [DriverScript]: Execution of Function fn179225 Started..
+01-05-2015 13:28:04 INFO [DriverScript]: Execution of Function fn179225 Completed
+01-05-2015 14:47:00 INFO [DriverScript]: First Log4j Message
+01-05-2015 14:47:01 INFO [DriverScript]: WebService status is : success
+01-05-2015 14:47:01 INFO [DriverScript]: Execution of Function fn179225 Started..
+01-05-2015 14:47:07 INFO [DriverScript]: Execution of Function fn179225 Completed

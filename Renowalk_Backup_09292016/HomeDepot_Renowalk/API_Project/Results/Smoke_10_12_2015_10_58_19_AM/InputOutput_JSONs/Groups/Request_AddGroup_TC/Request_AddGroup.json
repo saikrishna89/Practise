@@ -1,0 +1,19 @@
+{
+	"AppOfficeID": 3,
+	"Name": "AutoTestGroup_94601_54958",
+	"DefaultPhotoGroup": 1,
+	"Description": "AutoTestDescription",
+	"GLCode": "AutoTstGLCode",
+	"IncludeComment": 1,
+	"IncludeMeasurements": 1,
+	"IncludePaint": 1,
+	"MaxNumberPerHouse": "12",
+	"PWGroupItem": [{
+			"PWItemID": 8,
+			"PWItemName": "AutoTestItem_46316_48160",
+			"Required": 1,
+			"DisplayAllTime": 1,
+			"DisplayOrder": 1
+		}],
+	"PhotoFolderName": "AutoTestFolderName"
+}

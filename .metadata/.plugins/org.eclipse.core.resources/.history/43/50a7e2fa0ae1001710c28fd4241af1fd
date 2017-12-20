@@ -1,0 +1,12 @@
+package com.javatpoint;
+
+public class TestStaticExample {
+	
+	public static void main(String[] args) {
+		StaticExample SE = new StaticExample();
+		SE.rollno = 12;
+		SE.name = "Sai";
+		SE.changeCollegeName("CSU");
+		System.out.println(SE.rollno+" "+SE.name+" "+SE.collegeName);
+	}
+}

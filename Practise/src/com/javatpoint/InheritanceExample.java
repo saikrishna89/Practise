@@ -1,0 +1,9 @@
+package com.javatpoint;
+
+public class InheritanceExample {
+	
+	int sampleNumber;
+	void sampleMethod() {
+		System.out.println("sample method");
+	}
+}

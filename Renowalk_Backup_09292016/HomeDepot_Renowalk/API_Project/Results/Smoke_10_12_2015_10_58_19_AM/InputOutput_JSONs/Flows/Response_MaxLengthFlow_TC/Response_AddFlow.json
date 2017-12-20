@@ -1,0 +1,1 @@
+{"code":"RQ500","status":"500","errors":["ORA-12899: value too large for column \"RENOWALK\".\"RWLK_WLK_THRU_TMPL\".\"RWLK_WLK_THRU_TMPL_NM\" (actual: 258, maximum: 255)\n"]}

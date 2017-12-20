@@ -1,0 +1,420 @@
+
+body {
+	font-size: 80%;
+	color: #000000;
+	margin: 10px;
+	<!--background-color: #FFFFFF;-->
+	background: #000000;
+	background-color: #EBF5FF;
+	<!--background-image: url("../../ReportRef/Images/images.gif");-->
+
+}
+
+body,p,h1,h2,h3,table,td,th,ul,ol,textarea,input {
+	font-family: Times New Roman, helvetica, arial, sans-serif;
+}
+
+table,input,textarea {
+	font-size: 100%;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+
+
+table.reportheader {
+	font-size: 250%;
+	font-weight: bold;
+	color: maroon;
+	text-shadow: 5px 5px #FFE4E1;
+	text-align: left;
+	padding-left: 50px;
+	float:left
+	border: 0px none;
+	border-collapse: collapse;
+	margin-left: 25px;
+	margin-right: 0px;
+}
+
+table.teststeps {
+	background-color: #F6F6F6;
+	color: #000000;
+	border: 1px solid #000000;
+	border-collapse: collapse;
+	margin-left: 10px;
+	margin-right: 10px;
+	box-shadow: 10px 10px 5px #CCCCCC;
+}
+
+	table.teststeps tr:nth-child(even) {background-color: #CCC}
+	table.teststeps tr:nth-child(odd) {background-color: #EAF2D3}
+
+table.subheader {
+	border: 0px;
+	background-color: transparent;
+	border-collapse: collapse;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-align: left;
+}
+
+table.tbtime {
+	background-color: #F6F6F6;
+	color: #000000;
+	border: 1px solid #000000;
+	border-collapse: collapse;
+	position: absolute;
+	left: 860px;
+	margin-left: 10px;
+	margin-right: 10px;
+	box-shadow: 10px 10px 5px #CCCCCC;
+}
+
+<!--
+table for url details-->table.releasesummary {
+	background-color: #F6F6F6;
+	color: #000000;
+	border: 1px solid #000000;
+	border-collapse: collapse;
+	position: absolute;
+	left: 335px;
+	margin-left: 10px;
+	margin-right: 10px;
+	box-shadow: 10px 10px 5px #CCCCCC;
+}
+
+table.pfsummary {
+	background-color: #F6F6F6;
+	color: #000000;
+	border: 1px solid #000000;
+	border-collapse: collapse;
+	position: absolute;
+	left: 435px;
+	margin-left: 10px;
+	margin-right: 10px;
+	box-shadow: 10px 10px 5px #CCCCCC;
+}
+
+{
+background-color
+:
+#F6F6F6
+;color
+:
+#000000
+;border
+:
+1px
+ 
+solid
+ 
+#000000
+;border-collapse
+:collapse
+;position
+:absolute
+;left
+:
+335px;
+}
+table.tblinks {
+	background-color: #F6F6F6;
+	color: #000000;
+	border: 1px solid #000000;
+	border-collapse: collapse;
+	box-shadow: 10px 10px 5px #CCCCCC;
+}
+
+td.subheader {
+	font-size: 130%;
+	font-weight: bold;
+	padding-top: 5px;
+	padding-bottom: 1px;
+	background-color: transparent;
+	}
+
+td.subcontents {
+	font-size: 120%;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	background-color: transparent;
+}
+
+td.tsheader {
+	color: #fffgg;
+	background-color: #808080;
+	font-size: 130%;
+	font-weight: bold;
+	text-align: center;
+	padding: 0px 0px 0px 0px;
+	border: 1px solid #000000;
+}
+
+<!--
+New-->td.releaseheader {
+	color: #fffgg;
+	background-color: #808080;
+	font-size: 120%;
+	font-weight: bold;
+	text-align: center;
+	padding: 1px 0px 0px 0px;
+	border: 1px solid #000000;
+}
+
+td.tsgen {
+	font-size: 120%;
+	font-weight: normal;
+	padding-left: 2px;
+	border: 1px solid #000000;
+	background-color: #FFF0E2;
+}
+
+td.tsgenfail {
+	font-size: 100%;
+	font-weight: bold;
+	color: red;
+	padding-left: 2px;
+	border: 1px solid #000000;
+}
+
+td.tsgenlevel1 {
+	font-size: 120%;
+	font-weight: normal;
+	padding-left: 2px;
+	border: 1px solid #000000;
+	background-color: #FFFFBB;
+}
+
+td.tsgenfaillevel1 {
+	font-size: 100%;
+	font-weight: bold;
+	color: red;
+	padding-left: 2px;
+	border: 1px solid #000000;
+	background-color: #FFFFBB;
+}
+
+td.tsind {
+	font-size: 120%;
+	font-weight: normal;
+	<!--padding-left: 10px;-->
+	padding-right: 2px;
+	text-align: center;
+	border: 1px solid #000000;
+	background-color: #FFF0E2;
+}
+
+td.tsindfail {
+	font-size: 100%;
+	font-weight: bold;
+	color: red;
+	padding-left: 15px;
+	padding-right: 2px;
+	border: 1px solid #000000;
+}
+
+td.tsindlevel1 {
+	font-size: 100%;
+	font-weight: normal;
+	padding-left: 15px;
+	padding-right: 2px;
+	border: 1px solid #000000;
+	background-color: #FFFFBB;
+}
+
+td.tsindfaillevel1 {
+	font-size: 100%;
+	font-weight: bold;
+	color: red;
+	padding-left: 15px;
+	padding-right: 2px;
+	border: 1px solid #000000;
+	background-color: #FFFFBB;
+}
+
+td.tsindlevel2 {
+	font-size: 100%;
+	font-weight: normal;
+	padding-left: 25px;
+	padding-right: 2px;
+	border: 1px solid #000000;
+	background-color: #FFF0E2;
+}
+
+td.tsindfaillevel2 {
+	font-size: 100%;
+	font-weight: bold;
+	color: red;
+	padding-left: 25px;
+	padding-right: 2px;
+	border: 1px solid #000000;
+}
+
+td.tsindlevel3 {
+	font-size: 100%;
+	font-weight: normal;
+	padding-left: 35px;
+	padding-right: 2px;
+	border: 1px solid #000000;
+}
+
+td.tsindfaillevel3 {
+	font-size: 100%;
+	font-weight: bold;
+	color: red;
+	padding-left: 35px;
+	padding-right: 2px;
+	border: 1px solid #000000;
+}
+
+td.tsinfo {
+	font-size: 100%;
+	font-weight: bold;
+	color: Green;
+	padding-left: 2px;
+	border: 1px solid #000000;
+	border-left
+	solid
+	none
+}
+
+td.tswarning {
+	font-size: 100%;
+	font-weight: bold;
+	color: OrangeRed;
+	padding-left: 2px;
+	border: 1px solid #000000;
+	border-left
+	solid
+	none
+}
+
+td.tsimgalert {
+	font-size: 100%;
+	font-weight: bold;
+	color: OrangeRed;
+	text-align: center;
+	border: 1px solid #000000;
+	border-right
+	solid
+	none
+}
+
+td.pfhead {
+	color: #000000;
+	background-color: #99FFCC;
+	font-size: 120%;
+	font-weight: bold;
+	text-align: left;
+	border: 1px solid #000000;
+}
+
+td.pfind {
+	font-color:Red;
+	font-size: 120%;
+	font-weight: normal;
+	padding-left: 0px;
+	text-align: center;
+	border: 1px solid #000000;
+	background-color: #99FFCC;
+}
+
+td.pfindFail {
+	color:Red;
+	font-size: 100%;
+	font-weight: normal;
+	padding-left: 20px;
+	border: 1px solid #000000;
+	
+}
+
+td.pfindPass {
+	color:Green;
+	font-size: 100%;
+	font-weight: normal;
+	padding-left: 20px;
+	border: 1px solid #000000;
+	
+}
+
+hr.divline {
+	<!--width: 1578px;-->
+	width="100%"
+	position: absolute;
+	left: 0px;
+	border: 1px solid black;
+	margin-top: 4px;
+	margin-left: 10px;
+	margin-right: 10px;
+	box-shadow: 5px 5px 5px #CCCCCC;
+}
+
+h3.indexhead {
+	margin: 10px 2px 2px 2px;
+	font-size: 150%;
+}
+
+b.highlight {
+	font-size: 125%;
+}
+
+div {
+	width: 100%;
+}
+
+a.anibutton:link,a.anibutton:visited {
+	color: #000000;
+	border: 0px none;
+	text-align: center;
+	background-color: transparent;
+	text-decoration: none;
+	padding: 0px 0px 0px 0px;
+}
+
+a.anibutton:hover {
+	color: #0000FF;
+	border: 2px outset;
+	background-color: transparent;
+	text-decoration: none;
+	padding: 1px 1px 1px 1px;
+	line-height: 300%;
+}
+
+img.screen {
+	width: 20px;
+	height: 20px;
+	border: 0px none;
+	background-color: transparent;
+}
+
+img.message {
+	width: 32px;
+	height: 32px;
+	border: 3px 3px 3px 3px;
+	background-color: transparent;
+}
+
+.right {
+    text-align: right;
+    font-size: 125%;
+    float: right;
+    margin-right: 100px;
+}
+
+$(".colorMe").each(function() {
+    var val = (this.innerHTML);
+	var s=val.split(",");
+	i=0;
+	while(i<5)
+	{
+		if(split[i]=="F")
+		{
+			this.style.backgroundColor = "#F00000";
+		}
+	i++;
+
+	}	
+   
+});
+
+

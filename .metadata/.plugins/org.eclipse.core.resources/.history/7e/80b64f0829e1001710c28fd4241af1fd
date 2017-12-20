@@ -1,0 +1,20 @@
+package com.javatpoint;
+
+public class Employee {
+	
+	int id;
+	String name;
+	Address address;
+	
+	Employee(int id, String name, Address address){
+		this.id = id;
+		this.name = name;
+		this.address = address;
+	}
+	
+	public static void main(String[] args) {
+		Address address = new Address("knr", "Telangana", 505001);
+		Employee employee = new Employee(1234, "Sai", address);
+		System.out.println(employee.id+" "+employee.name+" "+address.city+" "+address.state+" "+address.zip);
+	}
+}

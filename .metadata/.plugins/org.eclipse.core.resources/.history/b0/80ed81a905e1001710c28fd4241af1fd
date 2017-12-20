@@ -1,0 +1,13 @@
+package com.javatpoint;
+
+class Constructors {
+	
+	int rollno;
+	String name;
+	
+void Constructors(int rollno, String name) {
+	this.rollno = rollno;
+	this.name = name;
+}	
+
+}

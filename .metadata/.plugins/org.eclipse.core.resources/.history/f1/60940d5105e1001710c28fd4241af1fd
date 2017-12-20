@@ -1,0 +1,14 @@
+package com.javatpoint;
+
+class Constructors {
+	
+	int rollno;
+	String name;
+}
+class TestConstructors{
+	
+	public static void main(String[] args) {
+		Constructors con = new Constructors();
+		System.out.println(con.rollno+" "+con.name);
+	}
+}

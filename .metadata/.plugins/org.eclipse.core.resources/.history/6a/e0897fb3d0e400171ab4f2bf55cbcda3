@@ -1,0 +1,9 @@
+package com.javatpoint;
+
+public class AccessModifiersExample1 {
+	
+	public static void main() {
+		AccessModifiersExample AME = new AccessModifiersExample();
+		AME.a;
+	}
+}
